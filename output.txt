@@ -1,0 +1,11 @@
+
+Imie: Janusz
+Nazwisko: Cebula
+Mail: janusz123@wp.pl
+Telefon: 123456679
+
+Tytul: Hobbit
+Dzien: 2022-10-26
+Godzina: 19:15
+Ograniczenia wiekowe: od 12 lat
+Liczba miejsc na sali: 90
